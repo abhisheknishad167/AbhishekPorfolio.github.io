@@ -1,0 +1,198 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Curriculum",
+  "Header.cvName": "CV_Abhishek_Nishad.pdf",
+
+  "Banner.Pretitle": "Hi! My name is",
+  "Banner.Description": "I have <span class='underline'>14 months of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I specialize in writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and occasionally in <span class='underline'>Laravel</span>, applying good development practices and standards.",
+  "Banner.ActionBtn": "Say Hello",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+      "In my <span class='underline'>14 months as a developer</span>, I strive to learn every day. I have also worked on writing <span class='underline'>unit tests</span>, implementing <span class='underline'>continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and MySQL</span>. Additionally, I have led teams, showing empathy, motivating colleagues, and setting plans and goals together.",
+      "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the projects I am working on.",
+      "Some of the technologies I have trained and worked with include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+      {
+          "Tab": "Proyex",
+          "Title": "Fullstack Developer",
+          "Date": "December 2019 - Present",
+          "Description": [
+              "Creation and maintenance of a monitoring platform with graphics in Wordpress.",
+              "Functional programming in templates and plugins to add necessary monitoring features.",
+              "Implementation of continuous integration and daily backups.",
+              "Creation and maintenance of a second monitoring platform built in Angular, Angular Material, Laravel, MySQL, RxJS, Sass with customizable graphics, alarm system, and user management and general parameter configuration.",
+              "Planning meetings on reports."
+          ]
+      },
+      {
+          "Tab": "Freelancer",
+          "Title": "Independent",
+          "Date": "May 2016 - Present",
+          "Description": [
+              "Continuous improvement implementation, working on frontend and backend.",
+              "Creation of platforms with Angular, Laravel, Wordpress programmed with functional, reactive, and object-oriented programming paradigms.",
+              "Process automation with data structures.",
+              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+          ]
+      },
+      {
+          "Tab": "Moebius",
+          "Title": "FullStack Developer",
+          "Date": "July 2017 - October 2018",
+          "Description": [
+              "Leading a team of 4 people in the development of a tourism data management platform built in Angular, Laravel, and MySQL.",
+              "Implementation of CI/CD on Azure. Refactoring and optimizing application load times.",
+              "Coding API requests with RxJS.",
+              "Creating modules with complex reactive forms.",
+              "Weekly report writing on goals and plans."
+          ]
+      },
+      {
+          "Tab": "TechLatam",
+          "Title": "Frontend Developer",
+          "Date": "February 2016 - May 2017",
+          "Description": [
+              "Creation of Wordpress templates with ACF, functional programming in Javascript/jQuery, styling in SASS.",
+              "Integration of design improvements and template loading times.",
+              "Effective communication with design team, working with Avocode / Figma."
+          ]
+      },
+      {
+          "Tab": "CANTV",
+          "Title": "System Analyst",
+          "Date": "November 2015 - December 2016",
+          "Description": [
+              "Programming new functionalities for an existing employee management platform built in Angular and ExpressJS.",
+              "Refactoring old code. Ensuring compatibility of each dependency in each update, along with regular Angular updates."
+          ]
+      },
+      {
+          "Tab": "IEP",
+          "Title": "English Teacher",
+          "Date": "January 2015 - July 2015",
+          "Description": ["Teaching basic English to a roster of over 200 students."]
+      }
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+      {
+          "Title": "Agrourbana",
+          "Description": "Monitoring application built from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also includes reactive form logic for parameter configuration.",
+          "imgs": [
+              "assets/images/agrourbana/agrourbana1.png",
+              "assets/images/agrourbana/agrourbana2.png",
+              "assets/images/agrourbana/agrourbana3.png",
+              "assets/images/agrourbana/agrourbana4.png",
+              "assets/images/agrourbana/agrourbana5.png"
+          ],
+          "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      },
+      {
+          "Title": "Your Super Plan",
+          "Description": "Health plan estimator with an advanced search engine. Plans are displayed based on user age, monthly income, and location. Features include <span class='underline'>live chat</span>, <span class='underline'>contact form</span>, <span class='underline'>notification system via WhatsApp and email</span>, <span class='underline'>auth</span>, and <span class='underline'>admin role-based internet information management</span>.",
+          "imgs": [
+              "assets/images/tusuperplan/tusuperplan1.png",
+              "assets/images/tusuperplan/tusuperplan2.png",
+              "assets/images/tusuperplan/tusuperplan3.png",
+              "assets/images/tusuperplan/tusuperplan4.png",
+              "assets/images/tusuperplan/tusuperplan5.png"
+          ],
+          "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      },
+      {
+          "Title": "Proyexiot",
+          "Description": "Data monitoring platform for water wells, tugboats, and various installations built from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with OpenLayers</span>. It also includes reactive form logic for parameter configuration.",
+          "imgs": [
+              "assets/images/proyex/proyex1.png",
+              "assets/images/proyex/proyex2.png",
+              "assets/images/proyex/proyex3.png",
+              "assets/images/proyex/proyex4.png",
+              "assets/images/proyex/proyex5.png",
+              "assets/images/proyex/proyex6.png",
+              "assets/images/proyex/proyex7.png",
+              "assets/images/proyex/proyex8.png",
+              "assets/images/proyex/proyex9.png",
+              "assets/images/proyex/proyex10.png",
+              "assets/images/proyex/proyex11.png",
+              "assets/images/proyex/proyex12.png"
+          ],
+          "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      },
+      {
+          "Title": "Hands Game",
+          "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It includes the use of services, interfaces, and components.",
+          "imgs": ["assets/images/hands-game.png"],
+          "ghLink": "https://github.com/andresjosehr/hands-game",
+          "demoLink": "https://proyectos.andresjosehr.com/hands-game",
+          "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+      },
+      {
+          "Title": "Countries Viewer",
+          "Description": "Interface that consumes a countries API to view country lists, see details of each country, filter by name and region. It also includes a dark mode to switch between dark and light themes.",
+          "imgs": ["assets/images/countries-viewer.png"],
+          "ghLink": "https://github.com/andresjosehr/countries-viewer",
+          "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
+          "Technologies": ["Angular", "RxJS", "SASS", "API"]
+      }
+  ],
+
+  "OtherProjects.Title": "More Projects",
+  "OtherProjects.Projects": [
+      {
+          "Title": "Pokemon",
+          "Description": "Pokemon search engine using the pokeapi. Object-oriented programming was used to organize pokemon information along with their respective images.",
+          "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+          "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
+          "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+      },
+      {
+          "Title": "Coming Soon Page",
+          "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Programmed to be fully responsive design. It includes an email subscription form field.",
+          "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+          "demoLink": "https://proyectos.andresjosehr.com/coming-soon-page",
+          "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+      },
+      {
+          "Title": "Four Card Feature Section",
+          "Description": "A single page with a minimalist design that lists 4 features in 4 cards. Entry animations are used with angular animations.",
+          "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+          "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
+          "Technologies": ["Angular", "SASS", "CSS GRID"]
+      },
+      {
+          "Title": "Social Proof Section",
+          "Description": "Personal project of a page designed from a design made in figma. Angular was used for development along with SASS and CSS GRID.",
+          "ghLink": "https://github.com/andresjosehr/social-proof-section",
+          "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
+          "Technologies": ["Angular", "CSS GRID", "GIT"]
+      },
+      {
+          "Title": "FAQ Accordion Card",
+          "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
+          "ghLink": "https://github.com/andresjosehr/faq-accordion",
+          "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+          "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+      },
+      {
+          "Title": "Profile Card",
+          "Description": "Simple design of a page that includes a profile card with basic information about a person.",
+          "ghLink": "https://github.com/andresjosehr/profile-card-component",
+          "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+          "Technologies": ["Angular", "SASS", "GIT"]
+      }
+  ],
+
+  "Contact.Pretitle": "What's Next?",
+  "Contact.Title": "Say Hello!",
+  "Contact.Content": "I'll be glad to hear from you if you want to discuss new opportunities. Drop me a line, and I'll get back to you as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}

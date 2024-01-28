@@ -1,0 +1,75 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "CV_Abhishek_Nishad.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>14 months of experience</span> Developed the user interface using Angular, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>ASP.NET Core</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "Dedicated and results-driven professional with a <span class='underline'>Master's in Computer Science</span> and a solid foundation from a <span class='underline'>Bachelor's in Computer Science</span>",
+        "Bringing 14 months of hands-on experience as a Solution. Developer with proficiency in a wide array of technologies",
+        "Demonstrated expertise in both <span class='underline'>front-end and back-end development</span>, with a keen eye for detail and a commitment to delivering high-quality solutions",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [{
+            "Tab": "Quadwave",
+            "Title": "Fullstack developer",
+            "Date": "December 2022 - February 2024",
+            "Description": [
+              "Developed the user interface using Angular , ensuring an intuitive and seamless user experience.Played a key role in developing the back-end infrastructure using ASP.NET Core, ensuring robust and scalable functionality.",
+              "Conducted comprehensive unit tests to ensure the reliability and stability of the developed features.",
+              "Utilized a diverse technology stack including MySQL for database management, JavaScript,TypeScript, Angular, jQuery for front-end development, and C#, HTML, CSS, ASP.NET Core for the overall application architecture.",
+              "Successfully streamlined project management, time tracking, and invoicing processes for SMEs.",
+              "Implemented customizable dashboards and reports, providing users with valuable insights into their business performance."
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "Enconsys",
+            "Description": "Econsys is a cloud-based business management software designed to streamline operations for small and medium-sized enterprises (SMEs). Key features include project management, time tracking,invoicing, expense management, and customizable dashboards. Integration capabilities with popular     accounting software enhance financial management",
+            "imgs": [
+                "assets/econsys/econsys1.png",
+                "assets/econsys/econsys2.png",
+                "assets/econsys/econsys3.png"                
+            ],
+            "Technologies": ["Asp.net Core", "Angular", "SASS", "Angular Material", "MS SQL"]
+        }     
+
+      
+      
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "Expense App",
+            "Description": "For tracking the expenses",
+            
+            "Technologies": ["Asp.net Core", "C#", "Bootstrap"]
+        }    
+       
+       
+       
+       
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+
+
+}
