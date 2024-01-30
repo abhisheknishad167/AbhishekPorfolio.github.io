@@ -45,7 +45,7 @@
                 "assets/econsys/econsys2.png",
                 "assets/econsys/econsys3.png"                
             ],
-            "Technologies": ["Asp.net Core", "Angular", "SASS", "Angular Material", "MS SQL"]
+            "Technologies": ["Asp.Net Core,", "Angular,", "SASS,", "Angular Material,", "MS SQL"]
         }     
 
       
