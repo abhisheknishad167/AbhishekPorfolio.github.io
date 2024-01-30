@@ -131,16 +131,16 @@
           "Title": "Hands Game",
           "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It includes the use of services, interfaces, and components.",
           "imgs": ["assets/images/hands-game.png"],
-          "ghLink": "https://github.com/andresjosehr/hands-game",
-          "demoLink": "https://proyectos.andresjosehr.com/hands-game",
+          "ghLink": "https://github.com/abhisheknishad/hands-game",
+          "demoLink": "https://proyectos.abhisheknishad.com/hands-game",
           "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
       },
       {
           "Title": "Countries Viewer",
           "Description": "Interface that consumes a countries API to view country lists, see details of each country, filter by name and region. It also includes a dark mode to switch between dark and light themes.",
           "imgs": ["assets/images/countries-viewer.png"],
-          "ghLink": "https://github.com/andresjosehr/countries-viewer",
-          "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
+          "ghLink": "https://github.com/abhisheknishad/countries-viewer",
+          "demoLink": "https://proyectos.abhisheknishad.com/countries-viewer",
           "Technologies": ["Angular", "RxJS", "SASS", "API"]
       }
   ],
@@ -150,43 +150,43 @@
       {
           "Title": "Pokemon",
           "Description": "Pokemon search engine using the pokeapi. Object-oriented programming was used to organize pokemon information along with their respective images.",
-          "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-          "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
+          "ghLink": "https://github.com/abhisheknishad/pokemon-angular",
+          "demoLink": "https://proyectos.abhisheknishad.com/pokemon-list",
           "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
       },
       {
           "Title": "Coming Soon Page",
           "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Programmed to be fully responsive design. It includes an email subscription form field.",
-          "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-          "demoLink": "https://proyectos.andresjosehr.com/coming-soon-page",
+          "ghLink": "https://github.com/abhisheknishad/coming-soon-page",
+          "demoLink": "https://proyectos.abhisheknishad.com/coming-soon-page",
           "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
       },
       {
           "Title": "Four Card Feature Section",
           "Description": "A single page with a minimalist design that lists 4 features in 4 cards. Entry animations are used with angular animations.",
-          "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-          "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
+          "ghLink": "https://github.com/abhisheknishad/fourd-card-feature-section",
+          "demoLink": "https://proyectos.abhisheknishad.com/four-card-feature-section",
           "Technologies": ["Angular", "SASS", "CSS GRID"]
       },
       {
           "Title": "Social Proof Section",
           "Description": "Personal project of a page designed from a design made in figma. Angular was used for development along with SASS and CSS GRID.",
-          "ghLink": "https://github.com/andresjosehr/social-proof-section",
-          "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
+          "ghLink": "https://github.com/abhisheknishad/social-proof-section",
+          "demoLink": "https://proyectos.abhisheknishad.com/social-proof-section",
           "Technologies": ["Angular", "CSS GRID", "GIT"]
       },
       {
           "Title": "FAQ Accordion Card",
           "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
-          "ghLink": "https://github.com/andresjosehr/faq-accordion",
-          "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+          "ghLink": "https://github.com/abhisheknishad/faq-accordion",
+          "demoLink": "https://proyectos.abhisheknishad.com/faq-accordion",
           "Technologies": ["Angular", "CSS GRID", "Angular animations"]
       },
       {
           "Title": "Profile Card",
           "Description": "Simple design of a page that includes a profile card with basic information about a person.",
-          "ghLink": "https://github.com/andresjosehr/profile-card-component",
-          "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+          "ghLink": "https://github.com/abhisheknishad/profile-card-component",
+          "demoLink": "https://proyectos.abhisheknishad.com/profile-card-component",
           "Technologies": ["Angular", "SASS", "GIT"]
       }
   ],
