@@ -82,7 +82,7 @@
         },
         {
             "Title": "CustHub",
-            "Description": "CustHub is a comprehensive customer management application designed for seamless CRUD operations. It provides a centralized hub for viewing, editing, and managing customer data with intuitive user interfaces. The app offers a streamlined experience with features like nested dialogs for detailed customer insights and flexible address management. With CustHub, businesses can efficiently organize and update customer information, enhancing productivity and customer service excellence.",
+            "Description": "Streamline CRUD operations and centralize customer data with CustHub. Enjoy intuitive interfaces, nested dialogs, and flexible address management for efficient organization and updates. Elevate productivity and customer service with CustHub",
             
             "Technologies": ["CSS", "Html", "Bootstrap", "Angular","Json Server"],
             "demoLink": "https://github.com/abhisheknishad167/CustHub"
